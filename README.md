@@ -16,3 +16,7 @@
 - Automated *report generation* to reduce errors & save time  
 - Added *route optimization* for service efficiency  
 - Tech stack: *JavaScript (frontend), Python (API), AWS EC2, MySQL*
+
+## 📫 Connect with Me
+- 📧 Email: [khawlaabusaleh1@gmail.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/khawla-abusaleh-3b1389206/)  
