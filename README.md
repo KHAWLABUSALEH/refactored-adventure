@@ -11,7 +11,7 @@
 - *B.Sc. Information Systems* – The Academic College of Tel-Aviv Yaffo   
 
 ## 🔥 Featured Project
-### [Fire Equipment Service Management System] https://www.firefighting-workshop.top/)
+### [Fire Equipment Service Management System] https://www.firefighting-workshop.top/
 - Built a *full-stack web application* for scheduling & tracking maintenance  
 - Automated *report generation* to reduce errors & save time  
 - Added *route optimization* for service efficiency  
